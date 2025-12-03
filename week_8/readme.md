@@ -9,28 +9,27 @@
 A PyTorch implementation of a Convolutional Neural Network (CNN) for classifying hair types (straight vs curly) from images.
 
 ## 🚀 Quick Start
-```
+
 ##### Prerequisites
 - Python 3.8+
 - PyTorch 2.8.0+
 - torchvision
 - CUDA (optional, for GPU acceleration)
 
-### Installation
+##### Installation
 
 # Clone the repository
 git clone https://github.com/yourusername/hair-type-classification.git
 cd hair-type-classification
 
-# Install dependencies
+###### Install dependencies
 pip install torch torchvision numpy matplotlib tqdm
 Usage
 python
-# Run the complete pipeline
-python train.py
-📊 Dataset
-Source: Kaggle Hair Type dataset (rebuilt)
+####### Run the complete pipeline
+hair_classification.py
 
+📊 Dataset
 Classes: Straight (0) vs Curly (1)
 
 Train Images: ~1000
