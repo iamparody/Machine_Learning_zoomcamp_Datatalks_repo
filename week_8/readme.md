@@ -1,17 +1,16 @@
-
-
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
 [![PyTorch](https://img.shields.io/badge/PyTorch-2.8.0-red.svg)](https://pytorch.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yourusername/hair-type-classification)
 [![Open In Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://kaggle.com/kernels/welcome?src=https://github.com/yourusername/hair-type-classification)
+
 # Hair Type Classification with CNN
 
 A PyTorch implementation of a Convolutional Neural Network (CNN) for classifying hair types (straight vs curly) from images.
 
 ## 🚀 Quick Start
-
-### Prerequisites
+```
+##### Prerequisites
 - Python 3.8+
 - PyTorch 2.8.0+
 - torchvision
