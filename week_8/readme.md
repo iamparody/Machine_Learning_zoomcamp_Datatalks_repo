@@ -18,10 +18,6 @@ A PyTorch implementation of a Convolutional Neural Network (CNN) for classifying
 
 ##### Installation
 
-# Clone the repository
-git clone https://github.com/yourusername/hair-type-classification.git
-cd hair-type-classification
-
 ###### Install dependencies
 pip install torch torchvision numpy matplotlib tqdm
 Usage
